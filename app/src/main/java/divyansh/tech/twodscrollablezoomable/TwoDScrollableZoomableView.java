@@ -1,4 +1,4 @@
-package divyansh.tech.twodscrollablezoomablelibrary;
+package divyansh.tech.twodscrollablezoomable;
 
 // From http://web.archive.org/web/20131020193237/http://blog.gorges.us/2010/06/android-two-dimensional-scrollview
 // with modifications
@@ -16,7 +16,7 @@ package divyansh.tech.twodscrollablezoomablelibrary;
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  * See the License for the specific language governing permissions and
  * limitations under the License.
- */
+*/
 
 import android.content.Context;
 import android.util.AttributeSet;

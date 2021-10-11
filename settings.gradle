@@ -1,3 +1,4 @@
 rootProject.name = "twoDScrollableZoomable"
 include ':app'
 include ':twoDScrollableZoomableLibrary'
+include ':sample'
