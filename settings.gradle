@@ -1,0 +1,3 @@
+rootProject.name = "twoDScrollableZoomable"
+include ':app'
+include ':twoDScrollableZoomableLibrary'
