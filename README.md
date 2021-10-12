@@ -65,7 +65,6 @@ __NEW FEATURES WILL BE ADDED REGULARLY__
 
 <p align="right">(<a href="#top">Back to top</a>)</p>
 
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -99,6 +98,11 @@ dependencies {
 See the [open issues](https://github.com/justdvnsh/TwoDScrollableZoomableLayout/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">Back to top</a>)</p>
+
+<!-- SAMPLE -->
+## Sample Video demonstration
+
+[![Alternate Text]](https://drive.google.com/file/d/1L95IzOvjmh7dfpvyRp422-1FlAZrN0ro/view?usp=sharing)
 
 <!-- CONTRIBUTING -->
 ## Contributing
