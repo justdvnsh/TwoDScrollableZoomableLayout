@@ -53,8 +53,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 The project aims to solve a personal problem of including Two Dimensional Scrolling view with zoom. 
 A few my projects needed this feature to view the images just like a wallpaper app does to let you set the wallpaper. 
 However, the scroll views in the wallpapers simply scroll horizontally. My problem was that a lot of images were loosing their quality if they were set to the phone's height.
